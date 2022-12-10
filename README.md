@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/official_4nkit" target="blank"><img src="https://img.shields.io/twitter/follow/official_4nkit?logo=twitter&style=for-the-badge" alt="official_4nkit" /></a> </p>
 
-- 📫 How to reach me **bkankit32@gmail.com**
+- <!--📫 How to reach me **bkankit32@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorilla-programming&show_icons=true&locale=en" alt="gorilla-programming" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorilla-programming&" alt="gorilla-programming" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorilla-programming&" alt="gorilla-programming" /></p>-->
