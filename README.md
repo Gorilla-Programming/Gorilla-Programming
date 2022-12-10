@@ -1,7 +1,7 @@
 ![Black Blue and Neon Pink Modern Tech Electronics and Technology X-Frame Banner](https://user-images.githubusercontent.com/55872110/124147523-66de3200-daac-11eb-84fe-ee7c0d6a7ecc.gif)
 
 
-<h1 align="center">Hi 👋, I'm Ankit Chaudhary</h1>
+<h1 align="center">Hi 👋, I'm Namrata Rani</h1>
 <h3 align="center">A passionated developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorilla-programming&label=Profile%20views&color=0e75b6&style=flat" alt="gorilla-programming" /> </p>
