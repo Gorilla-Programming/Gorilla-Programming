@@ -1,13 +1,13 @@
 ![Black Blue and Neon Pink Modern Tech Electronics and Technology X-Frame Banner](https://user-images.githubusercontent.com/55872110/124147523-66de3200-daac-11eb-84fe-ee7c0d6a7ecc.gif)
 
 
-<h1 align="center">Hi 👋, I'm Namrata Rani</h1>
+<h1 align="center">Hi 👋, I'm Ankit Chaudhary</h1>
 <h3 align="center">A passionated developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorilla-programming&label=Profile%20views&color=0e75b6&style=flat" alt="gorilla-programming" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gorilla-programming" alt="gorilla-programming" /></a> </p>
-<!--
+
 <p align="left"> <a href="https://twitter.com/official_4nkit" target="blank"><img src="https://img.shields.io/twitter/follow/official_4nkit?logo=twitter&style=for-the-badge" alt="official_4nkit" /></a> </p>
 
 - 📫 How to reach me **bkankit32@gmail.com**
@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorilla-programming&show_icons=true&locale=en" alt="gorilla-programming" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorilla-programming&" alt="gorilla-programming" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorilla-programming&" alt="gorilla-programming" /></p>
